@@ -1,0 +1,13 @@
+{
+  "name": "credit-card-2lvl",
+  "author": "Nastassia Dunaeva",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"},
+  "dependencies": {
+    "redom": "^4.3.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  }
+}
